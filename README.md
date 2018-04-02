@@ -1,1 +1,1 @@
-# dyndns-route53-goclient
+# go-route53-dyndns
